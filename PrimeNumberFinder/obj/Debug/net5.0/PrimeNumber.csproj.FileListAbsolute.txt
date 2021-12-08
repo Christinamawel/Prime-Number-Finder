@@ -1,0 +1,16 @@
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.deps.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.pdb
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.pdb
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.exe
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\smile\OneDrive\Desktop\Epicodus\PrimeNumberFinder.Solution\PrimeNumberFinder\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
